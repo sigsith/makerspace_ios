@@ -20,7 +20,7 @@ Steps:
 - Enable developer mode on your iPhone/iPad
 - Connect your device with the Mac and trust the device
 - Clone and open this project in Unity
-  - Open the top-level-scene from the asset (if not already),
+  - Open the top-level-scene from Assets/Scenes
     you should be able to see the room
   - Shift+CMD+B OR Menubar -> File -> Build Settings
     - Select iOS platform and install tools if not already
