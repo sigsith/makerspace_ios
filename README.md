@@ -23,7 +23,7 @@ Steps:
   - Open the top-level-scene from Assets/Scenes
     you should be able to see the room
   - Shift+CMD+B OR Menubar -> File -> Build Settings
-    - Select iOS platform and install tools if not already
+    - Select iOS platform, click Switch Platform, and install tools if not already
     - Click on Build and Run, select a build directory of your choice
     - It should now build and redirect you to XCode
   - In your XCode, it should display one error related to the developer profile
