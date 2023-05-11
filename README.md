@@ -18,7 +18,7 @@ Software requriements:
 
 Steps:
 - Enable developer mode on your iPhone/iPad
-- Connect your device with the Mac and trust the device
+- Connect your device with the Mac with a cable and trust the device
 - Clone and open this project in Unity
   - Open the top-level-scene from Assets/Scenes
     you should be able to see the room
