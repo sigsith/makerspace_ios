@@ -14,7 +14,7 @@ be able to build this in some other ways):
 
 Software requriements:
 - Unity
-- XCode
+- Xcode
 
 Steps:
 - Enable developer mode on your iPhone/iPad
@@ -25,8 +25,8 @@ Steps:
   - Shift+CMD+B OR Menubar -> File -> Build Settings
     - Select iOS platform, click Switch Platform, and install tools if not already
     - Click on Build and Run, select a build directory of your choice
-    - It should now build and redirect you to XCode
-  - In your XCode, it should display one error related to the developer profile
+    - It should now build and redirect you to Xcode
+  - In your Xcode, it should display one error related to the developer profile
     - Resolve the error by logging into your developer account 
-    - Now the XCode should build
+    - Now the Xcode should build
   - Unlock your device. It should now open the build for you.
